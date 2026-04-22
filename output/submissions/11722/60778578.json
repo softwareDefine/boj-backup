@@ -1,0 +1,11 @@
+{
+  "submissionId": 60778578,
+  "problemId": 11722,
+  "problemTitle": "가장 긴 감소하는 부분 수열",
+  "result": "맞았습니다!!",
+  "memory": 1120,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 536,
+  "submittedAt": "2023년 5월 15일 01:01:05"
+}

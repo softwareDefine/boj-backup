@@ -1,0 +1,15 @@
+{
+  "problemId": 18408,
+  "title": "3 つの整数 (Three Integers)",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p><var>3</var>&nbsp;つの整数&nbsp;<var>A, B, C</var>&nbsp;が与えられる．<var>A, B, C</var>&nbsp;はそれぞれ&nbsp;<var>1</var>&nbsp;または&nbsp;<var>2</var>&nbsp;である．<var>1</var>&nbsp;と&nbsp;<var>2</var>&nbsp;のうち，どちらが多くあるか．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>A</var> <var>B</var> <var>C</var></pre>",
+  "outputDesc": "<p><var>1</var>&nbsp;と&nbsp;<var>2</var>&nbsp;のうち，個数が多い方を出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-22T02:22:31.977Z"
+}

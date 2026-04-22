@@ -1,0 +1,17 @@
+{
+  "problemId": 13985,
+  "title": "Equality",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>You are grading an arithmetic quiz. The quiz asks a student for the sum of the numbers. Determine if the student taking the quiz got the question correct.</p>",
+  "inputDesc": "<p>The first and the only line of input contains a string of the form:</p>\n\n<p>a + b = c</p>\n\n<p>It is guaranteed that a, b, and c are single-digit positive integers. The input line will have exactly 9 characters, formatted exactly as shown, with a single space separating each number and arithmetic operator.</p>",
+  "outputDesc": "<p>Print, on a single line, YES if the sum is correct; otherwise, print NO.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "문자열",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:05:35.235Z"
+}

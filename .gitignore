@@ -1,6 +1,14 @@
 node_modules/
 dist/
-output/
+assets/
+docks/
+src/
+README.md
+PLAN.md
+package-lock.json
+package.json
+tsconfig.json
+tests/
 progress.json
 *.tsbuildinfo
 .env

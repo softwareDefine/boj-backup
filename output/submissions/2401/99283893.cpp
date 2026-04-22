@@ -1,0 +1,52 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int n;
+
+string str;
+vector<int> cord[100000];
+string ptr[10000];
+
+int pi[100000];
+int dp[100000];
+int main(){
+    cin >> str;
+    cin >> n;
+    for(int i=0;i<n;i++){
+        cin >> ptr[i];
+    }
+    int j;
+    for(int t=0; t<n; t++){
+        memset(pi,0,sizeof(pi));
+        j = 0;
+        for(int i=1;i<ptr[t].length();i++){
+            while( j > 0 && ptr[t][i] != ptr[t][j]){
+                j = pi[j-1];
+            }
+            if(ptr[t][i] == ptr[t][j]){
+                pi[i] = ++j;   
+            }
+        }
+        for(int i=0;i<str.size();i++){
+            while( j > 0 && str[i] != ptr[t][j]){
+                j = pi[j-1];
+            }
+            if(str[i] == ptr[t][j]){
+                if(j == ptr[t].size()-1){
+                    cord[i-ptr[t].size()+1].push_back(ptr[t].size());
+                    j = pi[j];
+                }else{
+                    ++j;
+                }
+            }
+        }
+    }
+    for(int i=0;i<str.size();i++){
+        for(auto element : cord[i]){
+            dp[i+element] = max(dp[i+element],dp[i] + element);
+        }
+        dp[i+1] = max(dp[i+1],dp[i]);
+    }
+    cout << dp[str.size()];
+}

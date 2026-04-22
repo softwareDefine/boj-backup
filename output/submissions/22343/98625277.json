@@ -1,0 +1,11 @@
+{
+  "submissionId": 98625277,
+  "problemId": 22343,
+  "problemTitle": "괄호의 값 비교",
+  "result": "26점",
+  "memory": 108384,
+  "time": 92,
+  "language": "PyPy3",
+  "codeLength": 865,
+  "submittedAt": "2025년 9월 17일 23:42:19"
+}

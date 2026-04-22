@@ -1,0 +1,14 @@
+{
+  "problemId": 15733,
+  "title": "나는 누구인가",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>당신은 지금 코딩을 하고있다. 그럼 당신은 어떤 사람인가.</p>",
+  "inputDesc": "<p>없다.</p>",
+  "outputDesc": "<p>“I'm Sexy”를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-22T02:12:48.436Z"
+}

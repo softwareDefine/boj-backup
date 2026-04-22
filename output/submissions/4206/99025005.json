@@ -1,0 +1,11 @@
+{
+  "submissionId": 99025005,
+  "problemId": 4206,
+  "problemTitle": "피보나치 단어",
+  "result": "맞았습니다!!",
+  "memory": 157200,
+  "time": 276,
+  "language": "PyPy3",
+  "codeLength": 2205,
+  "submittedAt": "2025년 9월 30일 00:25:09"
+}

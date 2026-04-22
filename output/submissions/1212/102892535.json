@@ -1,0 +1,11 @@
+{
+  "submissionId": 102892535,
+  "problemId": 1212,
+  "problemTitle": "8진수 2진수",
+  "result": "런타임 에러 (out_of_range)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 493,
+  "submittedAt": "2026년 2월 12일 18:46:41"
+}

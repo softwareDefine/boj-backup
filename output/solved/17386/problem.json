@@ -1,0 +1,15 @@
+{
+  "problemId": 17386,
+  "title": "선분 교차 1",
+  "timeLimit": "0.25 초 (추가 시간 없음)",
+  "memoryLimit": "512 MB",
+  "description": "<p>2차원 좌표 평면 위의 두 선분 L<sub>1</sub>, L<sub>2</sub>가 주어졌을 때, 두 선분이 교차하는지 아닌지 구해보자.</p>\n\n<p>L<sub>1</sub>의 양 끝 점은 (x<sub>1</sub>, y<sub>1</sub>), (x<sub>2</sub>, y<sub>2</sub>), L<sub>2</sub>의 양 끝 점은 (x<sub>3</sub>, y<sub>3</sub>), (x<sub>4</sub>, y<sub>4</sub>)이다.</p>",
+  "inputDesc": "<p>첫째 줄에 L<sub>1</sub>의 양 끝 점 x<sub>1</sub>, y<sub>1</sub>, x<sub>2</sub>, y<sub>2</sub>가, 둘째 줄에 L<sub>2</sub>의 양 끝 점 x<sub>3</sub>, y<sub>3</sub>, x<sub>4</sub>, y<sub>4</sub>가 주어진다. 세 점이 일직선 위에 있는 경우는 없다.</p>",
+  "outputDesc": "<p>L<sub>1</sub>과 L<sub>2</sub>가 교차하면 1, 아니면 0을 출력한다.</p>",
+  "tags": [
+    "성공",
+    "기하학",
+    "선분 교차 판정"
+  ],
+  "fetchedAt": "2026-04-22T02:19:08.271Z"
+}

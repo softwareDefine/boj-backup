@@ -1,0 +1,11 @@
+{
+  "submissionId": 90128257,
+  "problemId": 11286,
+  "problemTitle": "절댓값 힙",
+  "result": "런타임 에러 (Segfault)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 804,
+  "submittedAt": "2025년 2월 16일 00:32:41"
+}

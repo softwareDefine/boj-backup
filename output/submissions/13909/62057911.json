@@ -1,0 +1,11 @@
+{
+  "submissionId": 62057911,
+  "problemId": 13909,
+  "problemTitle": "창문 닫기",
+  "result": "런타임 에러 (AttributeError)",
+  "memory": 0,
+  "time": 0,
+  "language": "Python 3",
+  "codeLength": 114,
+  "submittedAt": "2023년 6월 14일 10:12:18"
+}

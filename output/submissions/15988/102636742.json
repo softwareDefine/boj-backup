@@ -1,0 +1,11 @@
+{
+  "submissionId": 102636742,
+  "problemId": 15988,
+  "problemTitle": "1, 2, 3 더하기 3",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 525,
+  "submittedAt": "2026년 2월 4일 23:49:40"
+}

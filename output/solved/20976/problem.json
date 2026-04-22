@@ -1,0 +1,15 @@
+{
+  "problemId": 20976,
+  "title": "2 番目に大きい整数 (The Second Largest Integer)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p><var>3</var>&nbsp;つの整数&nbsp;<var>A, B, C</var>&nbsp;が与えられる．これらのうち&nbsp;<var>2</var>&nbsp;番目に大きい数を出力せよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<p><var>A</var>&nbsp;<var>B</var>&nbsp;<var>C</var></p>",
+  "outputDesc": "<p><var>A, B, C</var>&nbsp;のうち，<var>2</var>&nbsp;番目に大きい数を出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-22T02:26:57.869Z"
+}

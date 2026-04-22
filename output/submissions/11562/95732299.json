@@ -1,0 +1,11 @@
+{
+  "submissionId": 95732299,
+  "problemId": 11562,
+  "problemTitle": "백양로 브레이크",
+  "result": "런타임 에러 (DoubleFree)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 1576,
+  "submittedAt": "2025년 6월 28일 03:46:09"
+}

@@ -1,0 +1,17 @@
+{
+  "problemId": 7891,
+  "title": "Can you add this?",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Given two integers, calculate and output their sum.</p>",
+  "inputDesc": "<p>The input contains several test cases. The first line contains and integer t (t ≤ 100) denoting the number of test cases. Then t tests follow, each of them consisiting of two space separated integers x and y (−10<sup>9</sup> ≤ x, y ≤ 10<sup>9</sup>).</p>",
+  "outputDesc": "<p>For each test case output output the sum of the corresponding integers.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "구현",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T01:41:55.779Z"
+}

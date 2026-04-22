@@ -1,0 +1,11 @@
+{
+  "submissionId": 99710342,
+  "problemId": 29751,
+  "problemTitle": "삼각형",
+  "result": "런타임 에러 (ValueError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3",
+  "codeLength": 59,
+  "submittedAt": "2025년 10월 26일 05:51:38"
+}

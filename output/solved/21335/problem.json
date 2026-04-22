@@ -1,0 +1,17 @@
+{
+  "problemId": 21335,
+  "title": "Another Eruption",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>A volcano has recently erupted in Geldingadalur, Iceland. Fortunately this eruption is relatively small, and---unlike the infamous Eyjafjallajökull eruption---is not expected to cause delayed international flights or global outrage.</p>\n\n<p>There is some concern about the magmatic gas that has been released as part of the eruption, as it could pose danger to human populations in the surrounding area. Scientists have estimated the total amount of gas emitted, which, due to lack of wind, has spread out uniformly across a circular area around the centre of the volcano. The authorities have evacuated the area, and would now like to close it off by surrounding the perimeter with barrier tape.</p>",
+  "inputDesc": "<p>The input consists of:</p>\n\n<ul>\n\t<li>One line with an integer $a$ ($1 \\le a \\le 10^{18}$), the total area covered by gas in square metres.</li>\n</ul>",
+  "outputDesc": "<p>Output the total length of barrier tape needed to surround the area covered by gas, in metres. Your answer should have an absolute or relative error of at most $10^{-6}$.</p>",
+  "tags": [
+    "성공",
+    "스페셜 저지",
+    "다국어",
+    "수학",
+    "기하학"
+  ],
+  "fetchedAt": "2026-04-22T02:27:08.799Z"
+}

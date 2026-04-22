@@ -1,0 +1,16 @@
+{
+  "problemId": 24082,
+  "title": "立方体 (Cube)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>一辺の長さが&nbsp;<var>x</var>&nbsp;cm の立方体の体積は&nbsp;<var>(x × x × x)</var>&nbsp;cm<sup>3</sup>&nbsp;である．</p>\n\n<p>整数&nbsp;<var>X</var>&nbsp;が与えられる．一辺の長さが&nbsp;<var>X</var>&nbsp;cm の立方体の体積は何 cm<sup>3</sup>&nbsp;か求めよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>X</var></pre>",
+  "outputDesc": "<p>一辺の長さが&nbsp;<var>X</var>&nbsp;cm の立方体の体積が何 cm<sup>3</sup>&nbsp;か，単位 (cm<sup>3</sup>) を省いて出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:31:23.328Z"
+}

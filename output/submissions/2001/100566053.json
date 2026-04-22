@@ -1,0 +1,11 @@
+{
+  "submissionId": 100566053,
+  "problemId": 2001,
+  "problemTitle": "보석 줍기",
+  "result": "런타임 에러 (ShiftExponent)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 1115,
+  "submittedAt": "2025년 11월 27일 05:40:34"
+}

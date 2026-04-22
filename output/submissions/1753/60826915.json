@@ -1,0 +1,11 @@
+{
+  "submissionId": 60826915,
+  "problemId": 1753,
+  "problemTitle": "최단경로",
+  "result": "맞았습니다!!",
+  "memory": 40020,
+  "time": 340,
+  "language": "C++17",
+  "codeLength": 1080,
+  "submittedAt": "2023년 5월 15일 23:53:54"
+}

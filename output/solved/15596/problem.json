@@ -1,0 +1,16 @@
+{
+  "problemId": 15596,
+  "title": "정수 N개의 합",
+  "timeLimit": "0.1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>정수 n개가 주어졌을 때, n개의 합을 구하는 함수를 작성하시오.</p>\n\n<p>작성해야 하는 함수는 다음과 같다.</p>\n\n<ul>\n\t<li>C, C11, C (Clang), C11 (Clang): <code>long long sum(int *a, int n);</code>\n\n\t<ul>\n\t\t<li><code>a</code>: 합을 구해야 하는 정수 <code>n</code>개가 저장되어 있는 배열 (0 ≤ a[i] ≤ 1,000,000, 1 ≤ n ≤ 3,000,000)</li>\n\t\t<li><code>n</code>: 합을 구해야 하는 정수의 개수</li>\n\t\t<li>리턴값:&nbsp;a에 포함되어 있는 정수 <code>n</code>개의 합</li>\n\t</ul>\n\t</li>\n\t<li>C++, C++11, C++14, C++17, C++ (Clang), C++11 (Clang), C++14 (Clang), C++17 (Clang): <code>long long sum(std::vector&lt;int&gt; &amp;a);</code>\n\t<ul>\n\t\t<li><code>a</code>: 합을 구해야 하는 정수 <code>n</code>개가 저장되어 있는 배열 (0 ≤ a[i] ≤ 1,000,000, 1 ≤ n ≤ 3,000,000)</li>\n\t\t<li>리턴값:&nbsp;<code>a</code>에 포함되어 있는 정수 <code>n</code>개의 합</li>\n\t</ul>\n\t</li>\n\t<li>Python 2, Python 3, PyPy, PyPy3: <code>def solve(a: list) -&gt; int</code>\n\t<ul>\n\t\t<li><code>a</code>: 합을 구해야 하는 정수 <code>n</code>개가 저장되어 있는 리스트 (0 ≤ a[i] ≤ 1,000,000, 1 ≤ n ≤ 3,000,000)</li>\n\t\t<li>리턴값:&nbsp;<code>a</code>에 포함되어 있는 정수 <code>n</code>개의 합 (정수)</li>\n\t</ul>\n\t</li>\n\t<li>Java: <code>long sum(int[] a);</code> (클래스 이름: Test)\n\t<ul>\n\t\t<li><code>a</code>: 합을 구해야 하는 정수 <code>n</code>개가 저장되어 있는 배열 (0 ≤ a[i] ≤ 1,000,000, 1 ≤ n ≤ 3,000,000)</li>\n\t\t<li>리턴값:&nbsp;<code>a</code>에 포함되어 있는 정수 <code>n</code>개의 합</li>\n\t</ul>\n\t</li>\n\t<li>Go:&nbsp;<code>sum(a []int) int</code>\n\t<ul>\n\t\t<li><code>a</code>: 합을 구해야 하는 정수 <code>n</code>개가 저장되어 있는 배열 (0 ≤ a[i] ≤ 1,000,000, 1 ≤ n ≤ 3,000,000)</li>\n\t\t<li>리턴값:&nbsp;<code>a</code>에 포함되어 있는 정수 <code>n</code>개의 합</li>\n\t</ul>\n\t</li>\n</ul>",
+  "tags": [
+    "성공",
+    "언어 제한",
+    "함수 구현",
+    "수학",
+    "구현",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:11:09.954Z"
+}

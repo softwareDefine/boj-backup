@@ -1,0 +1,11 @@
+{
+  "submissionId": 101655192,
+  "problemId": 10803,
+  "problemTitle": "정사각형 만들기",
+  "result": "런타임 에러 (DivisionByZero)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 594,
+  "submittedAt": "2026년 1월 6일 16:09:12"
+}

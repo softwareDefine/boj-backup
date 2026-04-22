@@ -1,0 +1,11 @@
+{
+  "submissionId": 102382533,
+  "problemId": 2150,
+  "problemTitle": "Strongly Connected Component",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 1590,
+  "submittedAt": "2026년 1월 28일 10:47:39"
+}

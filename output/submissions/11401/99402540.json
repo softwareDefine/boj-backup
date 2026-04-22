@@ -1,0 +1,11 @@
+{
+  "submissionId": 99402540,
+  "problemId": 11401,
+  "problemTitle": "이항 계수 3",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 554,
+  "submittedAt": "2025년 10월 14일 13:31:07"
+}

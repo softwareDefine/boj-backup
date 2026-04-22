@@ -1,0 +1,16 @@
+{
+  "problemId": 24078,
+  "title": "余り (Remainder)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>正の整数&nbsp;<var>X</var>&nbsp;が与えられる．<var>X</var>&nbsp;を&nbsp;<var>21</var>&nbsp;で割った余りを出力せよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>X</var></pre>",
+  "outputDesc": "<p><var>X</var>&nbsp;を&nbsp;<var>21</var>&nbsp;で割った余りを出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:31:12.492Z"
+}

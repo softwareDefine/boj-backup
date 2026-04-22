@@ -1,0 +1,11 @@
+{
+  "submissionId": 60778208,
+  "problemId": 11054,
+  "problemTitle": "가장 긴 바이토닉 부분 수열",
+  "result": "맞았습니다!!",
+  "memory": 1124,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 785,
+  "submittedAt": "2023년 5월 15일 00:49:43"
+}

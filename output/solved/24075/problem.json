@@ -1,0 +1,17 @@
+{
+  "problemId": 24075,
+  "title": "計算 (Calculation)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p><var>2</var>&nbsp;つの整数&nbsp;<var>A, B</var>&nbsp;が与えられる．<var>A+B, A-B</var>&nbsp;の中で最大の値と最小の値を順に出力せよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>A</var> <var>B</var></pre>",
+  "outputDesc": "<p>出力は&nbsp;<var>2</var>&nbsp;行からなる．</p>\n\n<p><var>1</var>&nbsp;行目に，<var>A+B, A-B</var>&nbsp;の中で最大の値を出力せよ．</p>\n\n<p><var>2</var>&nbsp;行目に，<var>A+B, A-B</var>&nbsp;の中で最小の値を出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "구현",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:31:07.061Z"
+}

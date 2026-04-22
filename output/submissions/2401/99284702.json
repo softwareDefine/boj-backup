@@ -1,0 +1,11 @@
+{
+  "submissionId": 99284702,
+  "problemId": 2401,
+  "problemTitle": "최대 문자열 붙여넣기",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 1257,
+  "submittedAt": "2025년 10월 9일 22:38:16"
+}

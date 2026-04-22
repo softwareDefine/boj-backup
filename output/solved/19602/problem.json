@@ -1,0 +1,16 @@
+{
+  "problemId": 19602,
+  "title": "Dog Treats",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Barley the dog loves treats. At the end of the day he is either happy or sad depending on the number and size of treats he receives throughout the day. The treats come in three sizes: small, medium, and large. His happiness score can be measured using the following formula:</p>\n\n<p style=\"text-align: center;\">1 × S + 2 × M + 3 × L</p>\n\n<p>where S is the number of small treats, M is the number of medium treats and L is the number of large treats.</p>\n\n<p>If Barley’s happiness score is 10 or greater then he is happy. Otherwise, he is sad. Determine whether Barley is happy or sad at the end of the day.</p>",
+  "inputDesc": "<p>There are three lines of input. Each line contains a non-negative integer less than 10. The first line contains the number of small treats, S, the second line contains the number of medium treats, M, and the third line contains the number of large treats, L, that Barley receives in a day.</p>",
+  "outputDesc": "<p>If Barley’s happiness score is 10 or greater, output <code>happy</code>. Otherwise, output <code>sad</code>.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:23:50.609Z"
+}

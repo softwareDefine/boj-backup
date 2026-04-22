@@ -1,0 +1,11 @@
+{
+  "submissionId": 96226942,
+  "problemId": 2624,
+  "problemTitle": "동전 바꿔주기",
+  "result": "런타임 에러 (InsufficientSpace)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 414,
+  "submittedAt": "2025년 7월 11일 19:53:58"
+}

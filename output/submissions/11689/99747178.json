@@ -1,0 +1,11 @@
+{
+  "submissionId": 99747178,
+  "problemId": 11689,
+  "problemTitle": "GCD(n, k) = 1",
+  "result": "틀렸습니다",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 491,
+  "submittedAt": "2025년 10월 27일 18:41:47"
+}

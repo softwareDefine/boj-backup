@@ -1,0 +1,11 @@
+{
+  "submissionId": 60779570,
+  "problemId": 13277,
+  "problemTitle": "큰 수 곱셈",
+  "result": "맞았습니다!!",
+  "memory": 149292,
+  "time": 1104,
+  "language": "PyPy3",
+  "codeLength": 41,
+  "submittedAt": "2023년 5월 15일 01:39:24"
+}

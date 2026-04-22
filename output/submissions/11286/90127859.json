@@ -1,0 +1,11 @@
+{
+  "submissionId": 90127859,
+  "problemId": 11286,
+  "problemTitle": "절댓값 힙",
+  "result": "시간 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "C++20 (Clang)",
+  "codeLength": 568,
+  "submittedAt": "2025년 2월 16일 00:19:49"
+}

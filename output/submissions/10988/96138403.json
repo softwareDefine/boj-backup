@@ -1,0 +1,11 @@
+{
+  "submissionId": 96138403,
+  "problemId": 10988,
+  "problemTitle": "팰린드롬인지 확인하기",
+  "result": "런타임 에러 (ReferenceError)",
+  "memory": 0,
+  "time": 0,
+  "language": "node.js",
+  "codeLength": 475,
+  "submittedAt": "2025년 7월 9일 17:56:24"
+}

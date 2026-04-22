@@ -1,0 +1,15 @@
+{
+  "problemId": 12104,
+  "title": "순환 순열",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>두 바이너리 문자열 A와 B가 주어졌을 때, A와 XOR 했을 때, 0이 나오는 B의 순환 순열의&nbsp;개수를 구하는 프로그램을 작성하시오.</p>\n\n<p>순환 순열이란 순열 P = P<sub>0</sub>, P<sub>1</sub>, ..., P<sub>N-1</sub>이 있을 때, 왼쪽으로 k번 순환 이동시킨 순열이다. 즉, P를 k번 순환 이동 시키면, P<sub>i</sub> -&gt; P<sub>i+k mod n</sub> 이 된다.</p>",
+  "inputDesc": "<p>첫째 줄에 A, 둘째 줄에 B가 주어진다. A와 B의 길이는 10<sup>5</sup>를 넘지 않는 자연수이며, 두 문자열의 길이는 같다.</p>",
+  "outputDesc": "<p>첫째 줄에 A와 XOR했을 때, 0이 나오는 B의 순환 순열의 개수를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "문자열",
+    "kmp"
+  ],
+  "fetchedAt": "2026-04-22T02:01:20.308Z"
+}

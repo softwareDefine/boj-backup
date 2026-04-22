@@ -1,0 +1,16 @@
+{
+  "problemId": 24079,
+  "title": "移動 (Moving)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>A 地点から B 地点に移動するのに&nbsp;<var>X</var>&nbsp;時間，B 地点から C 地点に移動するのに&nbsp;<var>Y</var>&nbsp;時間かかる．</p>\n\n<p>A 地点から B 地点を経由して C 地点に移動するとき，<var>Z</var>&nbsp;時間&nbsp;<var>30</var>&nbsp;分以内に移動することができるか判定せよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>X</var>\n<var>Y</var>\n<var>Z</var></pre>",
+  "outputDesc": "<p><var>Z</var>&nbsp;時間&nbsp;<var>30</var>&nbsp;分以内に移動することができるならば&nbsp;<var>1</var>&nbsp;を，そうでない場合は&nbsp;<var>0</var>&nbsp;を出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:31:17.493Z"
+}

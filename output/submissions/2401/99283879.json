@@ -1,0 +1,11 @@
+{
+  "submissionId": 99283879,
+  "problemId": 2401,
+  "problemTitle": "최대 문자열 붙여넣기",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 1189,
+  "submittedAt": "2025년 10월 9일 22:11:33"
+}

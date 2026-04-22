@@ -1,0 +1,11 @@
+{
+  "submissionId": 102866445,
+  "problemId": 2295,
+  "problemTitle": "세 수의 합",
+  "result": "런타임 에러 (Segfault)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 920,
+  "submittedAt": "2026년 2월 12일 00:51:13"
+}

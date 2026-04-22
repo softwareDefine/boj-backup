@@ -1,0 +1,16 @@
+{
+  "problemId": 8558,
+  "title": "Silnia",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Niech <em>n</em>&nbsp;będzie nieujemną liczbą całkowitą. Liczbę <em>n</em>!&nbsp;(czytaj&nbsp;<em>n</em>-silnia) definiuje się następująco. Jeśli <em>n</em> ≤ 1, to <em>n</em>! = 1. Dla <em>n</em> &gt; 1, <em>n</em>!&nbsp;jest równe iloczynowi wszystkich liczb od 1 do&nbsp;<em>n</em>, czyli <em>n</em>! = 1 * 2 * ... * <em>n</em>. Na przykład 4! = 1 * 2 * 3 * 4 = 24.</p>\n\n<p>Napisz program, który</p>\n\n<ul>\n\t<li>wczyta ze standardowego wejścia nieujemną liczbę całkowitą <em>n</em>,</li>\n\t<li>policzy cyfrę jedności w zapisie dziesiętnym liczby <em>n</em>!,</li>\n\t<li>wypisze wynik na standardowe wyjście.</li>\n</ul>",
+  "inputDesc": "<p>Pierwszy i jedyny wiersz standardowego wejścia zawiera dokładnie jedną nieujemną liczbę całkowitą <em>n</em>, 0 ≤ <em>n</em> ≤ 30 000.</p>",
+  "outputDesc": "<p>W pierszym i jedynym wierszu standardowego wyjścia Twój program powinien zapisać dokładnie jedną cyfrę równą cyfrze jedności w zapisie dziesiętnym liczby <em>n</em>!.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T01:42:30.436Z"
+}

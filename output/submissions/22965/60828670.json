@@ -1,0 +1,11 @@
+{
+  "submissionId": 60828670,
+  "problemId": 22965,
+  "problemTitle": "k개의 부분 배열",
+  "result": "맞았습니다!!",
+  "memory": 3568,
+  "time": 96,
+  "language": "C++17",
+  "codeLength": 784,
+  "submittedAt": "2023년 5월 16일 00:30:30"
+}

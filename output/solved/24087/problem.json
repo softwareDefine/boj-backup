@@ -1,0 +1,16 @@
+{
+  "problemId": 24087,
+  "title": "アイスクリーム (Ice Cream)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>JOI アイスクリーム店は，非常に高さのあるアイスクリームタワーが名物のアイスクリーム店である．アイスクリームタワーとは，ベースとなるアイスクリームの上に，追加のアイスクリームを&nbsp;<var>0</var>&nbsp;個以上積み重ねたものである．</p>\n\n<p>ベースとなるアイスクリームの金額は&nbsp;<var>250</var>&nbsp;円で，高さは&nbsp;<var>A</var>&nbsp;cm である．追加のアイスクリームは&nbsp;<var>1</var>&nbsp;個につき&nbsp;<var>100</var>&nbsp;円で，<var>1</var>&nbsp;個追加するごとにアイスクリームタワーの高さが&nbsp;<var>B</var>&nbsp;cm 増える．</p>\n\n<p>あなたは，この店で高さが&nbsp;<var>S</var>&nbsp;cm 以上のアイスクリームタワーを買いたい．高さが&nbsp;<var>S<var>&nbsp;cm 以上のアイスクリームタワーを買うために必要な金額の最小値を求めよ．</var></var></p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>S</var>\n<var>A</var>\n<var>B</var></pre>",
+  "outputDesc": "<p>高さ&nbsp;<var>S</var>&nbsp;cm 以上のアイスクリームタワーを買うために必要な金額の最小値を，単位 (円) を省いて出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:31:39.753Z"
+}

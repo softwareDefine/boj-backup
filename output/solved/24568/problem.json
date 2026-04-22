@@ -1,0 +1,16 @@
+{
+  "problemId": 24568,
+  "title": "Cupcake Party",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>A regular box of cupcakes holds 8 cupcakes, while a small box holds 3 cupcakes. There are 28 students in a class and a total of at least 28 cupcakes. Your job is to determine how many cupcakes will be left over if each student gets one cupcake.</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://upload.acmicpc.net/8ade8b89-bc7a-4438-a7fe-dad6f604a66d/-/preview/\" style=\"width: 383px; height: 108px;\"></p>",
+  "inputDesc": "<p>The input consists of two lines.</p>\n\n<ul>\n\t<li>The first line contains an integer R ≥ 0, representing the number of regular boxes.</li>\n\t<li>The second line contains an integer S ≥ 0, representing the number of small boxes.</li>\n</ul>",
+  "outputDesc": "<p>Output the number of cupcakes that are left over.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:32:37.622Z"
+}

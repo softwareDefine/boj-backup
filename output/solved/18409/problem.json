@@ -1,0 +1,16 @@
+{
+  "problemId": 18409,
+  "title": "母音を数える (Counting Vowels)",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>長さ&nbsp;<var>N</var>&nbsp;の英小文字からなる文字列&nbsp;<var>S</var>&nbsp;が与えられる．<var>S</var>&nbsp;のうち母音字の個数，つまり&nbsp;<code>a</code>，<code>i</code>，<code>u</code>，<code>e</code>，<code>o</code>&nbsp;の個数の総和を求めよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>N</var>\n<var>S</var></pre>",
+  "outputDesc": "<p><var>S</var>&nbsp;のうち母音字の個数，つまり&nbsp;<code>a</code>，<code>i</code>，<code>u</code>，<code>e</code>，<code>o</code>&nbsp;の個数の総和を出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-22T02:22:37.344Z"
+}

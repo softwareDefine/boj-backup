@@ -1,0 +1,17 @@
+{
+  "problemId": 24751,
+  "title": "Betting",
+  "timeLimit": "1 초 (추가 시간 없음)",
+  "memoryLimit": "1024 MB",
+  "description": "<p>The popular streaming platform switch.tv just unveiled their newest feature: switch betting. &nbsp;Streamers can now get their viewers to bet on two different options using switch points (patented).</p>\n\n<p>Each viewer bets some number of switch points for one of the two options. The total amount of switch points bet by everyone is called the prize pool. The streamer will choose one of the options as the winner and the prize pool is split (not necessarily equally) between all the viewers who bet on that option; the more you bet on the option, the more of the prize pool you receive. In particular, if you contributed $p\\%$ of all the bets for one of the options and that option wins, then you receive $p\\%$ of the total prize pool.</p>\n\n<p>The switch.tv team has come to you to compute what the switch point payout is for each viewer if their selected option wins. To do this, they ask you to find the switch-payout-ratio for each of the two options. Since the payout to each viewer is proportional to the number of switch points they put into the bet, the switch team will be able to use this ratio to determine each viewer's winnings.</p>\n\n<p>For example, suppose a streamer created a switch bet where three viewers participated. Two viewers bet $10$ and $30$ switch points on option one and the last viewer bets $10$ switch points on option two. We can see that option one has $80\\%$ of the bets and option two has $20\\%$ of the bets.</p>\n\n<p>If option one wins, then the two viewers who bet on that receive $12.5$ and $37.5$ switch points, respectively, which means that the switch-payout-ratio is $1$:$1.25$ for option one. If option two wins, then the single viewer who bets on that receives 50 switch points, which means that the switch-payout-ratio is $1$:$5$.</p>\n\n<p>Given the percentage of total bets for option one, help switch.tv by computing the switch-payout-ratio for the two options.</p>",
+  "inputDesc": "<p>The input consists of one integer $a$ ($0 &lt; a &lt; 100$), which is the percentage of switch points bet on option one.</p>",
+  "outputDesc": "<p>For each option (option one, then option two), display the number <code>x</code> such that <code>1:x</code> is the switch-payout-ratio for that option. Your answer should have an absolute or relative error of at most $10^{-3}$.</p>",
+  "tags": [
+    "성공",
+    "스페셜 저지",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:33:00.967Z"
+}

@@ -1,0 +1,15 @@
+{
+  "problemId": 23234,
+  "title": "The World Responds",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>In many introductory computer programming classes, the first program that students learn to write just prints “Hello, world!” It is used as a first assignment because it is a simple program that produces output. The program dates back to at least 1974, when Brian Kernighan used it as an example in a C programming tutorial. Its popularity has grown since then. Louisiana Tech University's ACM chapter has a Hello World project that has collected versions of this program in almost 200 different computer languages.</p>\n\n<p>While “Hello, World!” is a nice and simple first program, it does have one drawback. The program says hello to the world, but the world does not respond! This one-sided conversation is starting to become awkward after more than 35 years. For this problem, write a program that returns greetings from the world to the program.</p>",
+  "inputDesc": "<p>There is no input for this problem.</p>",
+  "outputDesc": "<p>Print one line of output: <code>The world says hello!</code></p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-22T02:29:53.287Z"
+}

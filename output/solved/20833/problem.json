@@ -1,0 +1,17 @@
+{
+  "problemId": 20833,
+  "title": "Kuber",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>Nadja klistrar ihop små träkuber med sidlängd 1 till större kompakta kuber. Hon har nu bestämt sig för att hon vill ha en kub av varje sidlängd från 1 till N. Hur många småkuber behöver Nadja?</p>",
+  "inputDesc": "<p>På den första och enda raden i indatan står heltalet $N$, $1 \\leq N \\leq 100$.</p>",
+  "outputDesc": "<p>Programmet ska skriva ut en rad med ett heltal: antelet småkuber Nadja behöver.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "구현",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:26:20.791Z"
+}

@@ -1,0 +1,11 @@
+{
+  "submissionId": 60779407,
+  "problemId": 1197,
+  "problemTitle": "최소 스패닝 트리",
+  "result": "맞았습니다!!",
+  "memory": 5504,
+  "time": 152,
+  "language": "C++17",
+  "codeLength": 1065,
+  "submittedAt": "2023년 5월 15일 01:32:00"
+}

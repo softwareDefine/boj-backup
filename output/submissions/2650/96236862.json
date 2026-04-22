@@ -1,0 +1,11 @@
+{
+  "submissionId": 96236862,
+  "problemId": 2650,
+  "problemTitle": "교차점개수",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 1431,
+  "submittedAt": "2025년 7월 12일 01:30:01"
+}

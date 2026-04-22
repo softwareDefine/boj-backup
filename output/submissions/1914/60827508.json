@@ -1,0 +1,11 @@
+{
+  "submissionId": 60827508,
+  "problemId": 1914,
+  "problemTitle": "하노이 탑",
+  "result": "맞았습니다!!",
+  "memory": 164332,
+  "time": 616,
+  "language": "PyPy3",
+  "codeLength": 252,
+  "submittedAt": "2023년 5월 16일 00:03:42"
+}

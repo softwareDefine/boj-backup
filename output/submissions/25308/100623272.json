@@ -1,0 +1,11 @@
+{
+  "submissionId": 100623272,
+  "problemId": 25308,
+  "problemTitle": "방사형 그래프",
+  "result": "런타임 에러 (IndexError)",
+  "memory": 0,
+  "time": 0,
+  "language": "PyPy3",
+  "codeLength": 1096,
+  "submittedAt": "2025년 11월 29일 05:44:39"
+}

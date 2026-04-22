@@ -1,0 +1,15 @@
+{
+  "problemId": 20232,
+  "title": "Archivist",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>The team of problemsetters of Northwestern Russia Regional Contest welcomes you! Our regional contest was founded in 1995 under the name \"Collegiate Programming Championship of St Petersburg\". Here is the list of the contest winners:</p>\n\n<ul>\n\t<li>1995: ITMO</li>\n\t<li>1996: SPbSU</li>\n\t<li>1997: SPbSU</li>\n\t<li>1998: ITMO</li>\n\t<li>1999: ITMO</li>\n\t<li>2000: SPbSU</li>\n\t<li>2001: ITMO</li>\n\t<li>2002: ITMO</li>\n\t<li>2003: ITMO</li>\n\t<li>2004: ITMO</li>\n\t<li>2005: ITMO</li>\n\t<li>2006: PetrSU, ITMO</li>\n\t<li>2007: SPbSU</li>\n\t<li>2008: SPbSU</li>\n\t<li>2009: ITMO</li>\n\t<li>2010: ITMO</li>\n\t<li>2011: ITMO</li>\n\t<li>2012: ITMO</li>\n\t<li>2013: SPbSU</li>\n\t<li>2014: ITMO</li>\n\t<li>2015: ITMO</li>\n\t<li>2016: ITMO</li>\n\t<li>2017: ITMO</li>\n\t<li>2018: SPbSU</li>\n\t<li>2019: ITMO</li>\n</ul>\n\n<p>Help the contest archivist to remember the results of each contest and write a program that will read the year and print contest winners of that year in exactly the same format as above.</p>",
+  "inputDesc": "<p>The only line of input contains a single integer $y$ ($1995 \\le y \\le 2019$), denoting the year. You don't need to process year numbers less than $1995$ or greater than $2019$, or incorrect year formats. It is guaranteed that you will be given a number between $1995$ and $2019$, inclusive.</p>",
+  "outputDesc": "<p>Print the winner of the contest in year $y$ exactly in the same format as in the list above.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-22T02:25:14.145Z"
+}

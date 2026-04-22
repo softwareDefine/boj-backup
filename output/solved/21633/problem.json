@@ -1,0 +1,18 @@
+{
+  "problemId": 21633,
+  "title": "Bank Transfer",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Tanya has an account in \"Redgotts\" bank. The bank has the commission to transfer money to \"Bluegotts\" bank that her friend Vanya has the account in.</p>\n\n<p>Tanya has read her bank rules and learned the following:</p>\n\n<p><em>The commission for the bank transfer is $25$ tugriks plus $1\\%$ of the sum transferred. However, the commission is never smaller than $100$ tugriks, and cannot exceed $2000$ tugriks.</em></p>\n\n<p>Tanya is planning to transfer $k$ tugriks to Vanya. Help her find out what the commission would be.</p>",
+  "inputDesc": "<p>Input is a single integer $k$ ($200 \\le k \\le 10^9$).</p>",
+  "outputDesc": "<p>Output one floating point value: the commission for the transfer. The value must be printed with at least two exact digits after the decimal point.</p>",
+  "tags": [
+    "성공",
+    "스페셜 저지",
+    "다국어",
+    "수학",
+    "구현",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:27:43.106Z"
+}

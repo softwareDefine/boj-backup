@@ -1,0 +1,16 @@
+{
+  "problemId": 14173,
+  "title": "Square Pasture",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Farmer John has decided to update his farm to simplify its geometry. Previously, his cows grazed in two rectangular fenced-in pastures. Farmer John would like to replace these with a single square fenced-in pasture of minimum size that still covers all the regions of his farm that were previously enclosed by the former two fences.</p>\n\n<p>Please help Farmer John figure out the minimum area he needs to make his new square pasture so that if he places it appropriately, it can still cover all the area formerly covered by the two older rectangular pastures. The square pasture should have its sides parallel to the x and y axes.</p>",
+  "inputDesc": "<p>The first line in the input file specifies one of the original rectangular pastures with four space-separated integers x<sub>1</sub> y<sub>1</sub> x<sub>2</sub> y<sub>2</sub>, each in the range 0…10. The lower-left corner of the pasture is at the point (x<sub>1</sub>,y<sub>1</sub>), and the upper-right corner is at the point (x<sub>2</sub>,y<sub>2</sub>), where x<sub>2</sub>&gt;x<sub>1</sub> and y<sub>2</sub>&gt;y<sub>1</sub>.</p>\n\n<p>The second line of input has the same 4-integer format as the first line, and specifies the second original rectangular pasture. This pasture will not overlap or touch the first pasture.</p>",
+  "outputDesc": "<p>The output should consist of one line containing the minimum area required of a square pasture that would cover all the regions originally enclosed by the two rectangular pastures.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:06:03.805Z"
+}

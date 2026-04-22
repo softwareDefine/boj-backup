@@ -1,0 +1,11 @@
+{
+  "submissionId": 90949457,
+  "problemId": 1916,
+  "problemTitle": "최소비용 구하기",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 1023,
+  "submittedAt": "2025년 3월 6일 13:38:11"
+}

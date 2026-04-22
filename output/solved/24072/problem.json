@@ -1,0 +1,15 @@
+{
+  "problemId": 24072,
+  "title": "帰省 (Homecoming)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>ビーバーのビ太郎は帰省することにした．今日から&nbsp;<var>A</var>&nbsp;日後の午前に実家に着き，今日から&nbsp;<var>B</var>&nbsp;日後の午前に実家を去る．それを聞きつけたビーバーのビバ子は，今日から&nbsp;<var>C</var>&nbsp;日後の午後にビ太郎の実家を訪れることにした．ビバ子がビ太郎に会えるか判定せよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>A</var> <var>B</var> <var>C</var></pre>",
+  "outputDesc": "<p>ビバ子がビ太郎に会える場合は&nbsp;<var>1</var>&nbsp;を，そうでない場合は&nbsp;<var>0</var>&nbsp;を出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-22T02:31:02.119Z"
+}

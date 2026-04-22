@@ -1,0 +1,16 @@
+{
+  "problemId": 15128,
+  "title": "Congruent Numbers",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>A congruent number is an integer that is the area of some right triangle where the length of each side of the triangle is a rational number. For this problem, we’ll only consider the legs of the right triangle, and not the hypotenuse.</p>\n\n<p>A rational number is a fraction, p/q, where p, the numerator, and q, the denominator, are integers. Note that if q = 1, then p/1 is an integer, so any integer is a rational number.</p>\n\n<p>Given two rational numbers which are the non-hypotenuse legs of a right triangle, determine if the area of that triangle is a congruent number. For the purposes of this problem, it is not necessary for the length of the hypotenuse to be a rational number.</p>",
+  "inputDesc": "<p>Each input will consist of a single test case. Note that your program may be run multiple times on different inputs. Each test case will consist of a single line with four integers p1, q1, p2 and q2 (1 ≤ p1,q1,p2,q2 ≤ 100,000) where p1/q1 and p2/q2 are the rational numbers which are the sides of a right triangle.&nbsp;</p>",
+  "outputDesc": "<p>Output a single integer, which is 1 if the area of the triangle is an integer, 0 if not. Note that the area has to be an integer, not just a rational number.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:10:21.007Z"
+}

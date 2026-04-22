@@ -1,0 +1,11 @@
+{
+  "submissionId": 60827085,
+  "problemId": 1787,
+  "problemTitle": "문자열의 주기 예측",
+  "result": "맞았습니다!!",
+  "memory": 11288,
+  "time": 56,
+  "language": "C++17",
+  "codeLength": 825,
+  "submittedAt": "2023년 5월 15일 23:56:26"
+}

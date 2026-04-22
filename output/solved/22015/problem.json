@@ -1,0 +1,18 @@
+{
+  "problemId": 22015,
+  "title": "金平糖 (Konpeito)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>JOI 高校の生徒である葵と凛は，教師の理恵先生と一緒に&nbsp;<var>3</var>&nbsp;人で金平糖を同じ数だけ食べることにした．</p>\n\n<p>いま，葵は&nbsp;<var>A</var>&nbsp;粒，凛は&nbsp;<var>B</var>&nbsp;粒，理恵先生は&nbsp;<var>C</var>&nbsp;粒の金平糖を食べた．<var>3</var>&nbsp;人が食べた金平糖の個数を等しくするには，最小で合計いくつの金平糖を追加で食べる必要があるだろうか．</p>\n\n<p><var>3</var>&nbsp;人が食べた金平糖の個数&nbsp;<var>A, B, C</var>&nbsp;が与えられたとき，追加で食べる金平糖の個数の最小値を求めるプログラムを作成せよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>A</var> <var>B</var> <var>C</var></pre>",
+  "outputDesc": "<p>標準出力に，追加で食べる金平糖の個数の最小値を&nbsp;<var>1</var>&nbsp;行で出力せよ．</p>",
+  "tags": [
+    "성공",
+    "서브태스크",
+    "다국어",
+    "수학",
+    "구현",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:28:33.945Z"
+}

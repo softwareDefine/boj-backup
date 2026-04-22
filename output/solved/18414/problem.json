@@ -1,0 +1,15 @@
+{
+  "problemId": 18414,
+  "title": "X に最も近い値 (The Nearest Value)",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>整数&nbsp;<var>X, L, R</var>&nbsp;が与えられる.&nbsp;<var>L</var>&nbsp;以上&nbsp;<var>R</var>&nbsp;以下の整数のうち，<var>X</var>&nbsp;との差の絶対値が最も小さいものを出力せよ．そのような整数はちょうど&nbsp;<var>1</var>&nbsp;つだけ存在することが証明できる．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>X</var> <var>L</var> <var>R</var></pre>",
+  "outputDesc": "<p><var>L</var>&nbsp;以上&nbsp;<var>R</var>&nbsp;以下の整数のうち，<var>X</var>&nbsp;との差の絶対値が最も小さいものを出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-22T02:22:48.658Z"
+}

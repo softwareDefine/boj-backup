@@ -1,0 +1,16 @@
+{
+  "problemId": 24083,
+  "title": "短針 (Hour Hand)",
+  "timeLimit": "2 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>JOI 高校の生徒である葵はアナログ時計を手に入れた．この時計には外周に沿って&nbsp;<var>12</var>&nbsp;個の目盛りがあり，時計回りに&nbsp;<var>1</var>&nbsp;から&nbsp;<var>12</var>&nbsp;までの番号が順に付けられている．</p>\n\n<p>この時計の短針は時計回りに回っており，<var>1</var>&nbsp;時間で目盛り&nbsp;<var>1</var>&nbsp;つ分進む．</p>\n\n<p>たった今，短針がある目盛りを指した．この目盛りの番号は&nbsp;<var>A</var>&nbsp;である．</p>\n\n<p>この状態からちょうど&nbsp;<var>B</var>&nbsp;時間が経過したときに短針が指す目盛りの番号を出力せよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>A</var>\n<var>B</var></pre>",
+  "outputDesc": "<p>短針が&nbsp;<var>A</var>&nbsp;を指してからちょうど&nbsp;<var>B</var>&nbsp;時間が経過したときに短針が指す目盛りの番号を出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:31:28.494Z"
+}

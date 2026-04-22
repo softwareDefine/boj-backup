@@ -1,0 +1,17 @@
+#include <iostream>
+
+using ll = long long;
+using namespace std;
+
+unsigned ll arr[1000010];
+
+int main(){
+	int n;
+	cin >> n;
+	arr[1] = 0; 
+	arr[2] = 1; 
+	for(int i=3;i<=n+1;i++){
+		arr[i] = arr[i-1] + arr[i-2];
+	}
+	cout << arr[n+1];
+}

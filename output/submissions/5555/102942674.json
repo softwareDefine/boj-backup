@@ -1,0 +1,11 @@
+{
+  "submissionId": 102942674,
+  "problemId": 5555,
+  "problemTitle": "반지",
+  "result": "런타임 에러 (Segfault)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 566,
+  "submittedAt": "2026년 2월 14일 08:40:36"
+}

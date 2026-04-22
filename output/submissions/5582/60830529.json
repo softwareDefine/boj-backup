@@ -1,0 +1,11 @@
+{
+  "submissionId": 60830529,
+  "problemId": 5582,
+  "problemTitle": "공통 부분 문자열",
+  "result": "맞았습니다!!",
+  "memory": 67688,
+  "time": 76,
+  "language": "C++17",
+  "codeLength": 424,
+  "submittedAt": "2023년 5월 16일 01:24:12"
+}

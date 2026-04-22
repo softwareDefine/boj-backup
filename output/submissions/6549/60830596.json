@@ -1,0 +1,11 @@
+{
+  "submissionId": 60830596,
+  "problemId": 6549,
+  "problemTitle": "히스토그램에서 가장 큰 직사각형",
+  "result": "맞았습니다!!",
+  "memory": 38568,
+  "time": 88,
+  "language": "C++17",
+  "codeLength": 1353,
+  "submittedAt": "2023년 5월 16일 01:26:57"
+}

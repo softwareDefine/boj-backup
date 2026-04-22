@@ -1,0 +1,19 @@
+{
+  "problemId": 8632,
+  "title": "Byteland",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>King Byteasar I the Great is the ruler of a mighty and rich country of Byteland. There are $n$&nbsp;towns in the country. King Byteasar would like to improve the infrastructure of Byteland and has ordered the royal architects to prepare plans for building highways across the country. He has received $m$&nbsp;proposals, each of which is described by three numbers $p$, $k$, $w$, where $p$&nbsp;and $k$&nbsp;are the towns being the endpoints of the highway, and $w$&nbsp;denotes the cost of building this highway. Each highway is bidirectional and does not visit any town except for its endpoints.</p>\n\n<p>The king would like to choose the highways so that there exists at least one way of travelling between any pair of towns, possibly by visiting several towns along the way. Byteasar would like to build the highway network as cheaply as possible.</p>\n\n<p>Write a program which:</p>\n\n<ul>\n\t<li>reads from the standard input the number of towns, the number of proposed highways and the descriptions of these highways,</li>\n\t<li>finds out, for each highway, whether there exists a highway network containing this highway and satisfying Byteasar's requirements,</li>\n\t<li>writes the results to the standard output.</li>\n</ul>",
+  "inputDesc": "<p>The first line of the input contains two integers: the number of towns, $n$, and the number of proposed highways, $m$, separated with a single space and satisfying the conditions: $2 ≤ n ≤ 7\\,000$, $1 ≤ m ≤ 300\\,000$. Each of the following $m$&nbsp;lines contains three space-separated integers $p$, $k$, $w$, describing the proposed highway. Here $p$&nbsp;and $k$&nbsp;denote the numbers of towns which are endpoints of the highway, and $w$&nbsp;is the price of the highway ($1 ≤ p, k ≤ n$, $1 ≤ w ≤ 100\\,000$).</p>",
+  "outputDesc": "<p>The output should consist of $m$&nbsp;lines. The $i$-th of those lines should contain a word \"<code>TAK</code>\" or \"<code>NIE</code>\", depending on whether there exists a highway network satisfying Byteasar's requirements containing the $i$-th highway from the input. You can safely assume that there exists at least one highway network satisfying Byteasar's requirements.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "자료 구조",
+    "그래프 이론",
+    "트리",
+    "분리 집합",
+    "최소 스패닝 트리"
+  ],
+  "fetchedAt": "2026-04-22T01:42:34.456Z"
+}

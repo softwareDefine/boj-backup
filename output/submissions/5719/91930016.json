@@ -1,0 +1,11 @@
+{
+  "submissionId": 91930016,
+  "problemId": 5719,
+  "problemTitle": "거의 최단 경로",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 2318,
+  "submittedAt": "2025년 3월 24일 17:32:48"
+}

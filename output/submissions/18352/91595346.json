@@ -1,0 +1,11 @@
+{
+  "submissionId": 91595346,
+  "problemId": 18352,
+  "problemTitle": "특정 거리의 도시 찾기",
+  "result": "런타임 에러 (WithoutReturning)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 902,
+  "submittedAt": "2025년 3월 18일 19:38:33"
+}

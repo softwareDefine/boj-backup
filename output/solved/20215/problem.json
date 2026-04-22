@@ -1,0 +1,18 @@
+{
+  "problemId": 20215,
+  "title": "Cutting Corners",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>A large coffee spill in the warehouse of the Busy Association of Papercutters on Caffeine has stained the corners of all paper in storage. In order to not waste money, it was decided that these dirty corners should be cut off of all pieces of paper.</p>\n\n<p>A few members loudly proclaim that cuts should be made diagonally, while other members say that cutting the corner out as a rectangle is the better option. Both parties claim their method is better.</p>\n\n<p>You decide to end this discussion once and for all, telling the rectangle-cutters that their method is slower. You set out to show them the following: given a piece of paper which has a $w$ by $h$ corner that is stained with coffee that needs to be to cut off, how much more effort is it to cut out the whole rectangle compared to cutting along the diagonal?</p>",
+  "inputDesc": "<p>The input consists of:</p>\n\n<ul>\n\t<li>A line containing two integers $w$ and $h$ ($1\\leq w,h\\leq 100$), representing the width and height of the corner respectively.</li>\n</ul>",
+  "outputDesc": "<p>Output how much longer you have to cut if you cut out a rectangle, compared to cutting along the diagonal. Your answer should have an absolute or relative error of at most $10^{-6}$.</p>",
+  "tags": [
+    "성공",
+    "스페셜 저지",
+    "다국어",
+    "수학",
+    "기하학",
+    "피타고라스 정리"
+  ],
+  "fetchedAt": "2026-04-22T02:25:08.156Z"
+}

@@ -1,0 +1,16 @@
+{
+  "problemId": 17863,
+  "title": "FYI",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>In the United States of America, telephone numbers within an area code consist of 7 digits: the prefix number is the first 3 digits and the line number is the last 4 digits. Traditionally, the 555 prefix number has been used to provide directory information and assistance as in the following examples:</p>\n\n<ul>\n\t<li>555-1212</li>\n\t<li>555-9876</li>\n\t<li>555-5000</li>\n\t<li>555-7777</li>\n</ul>\n\n<p>Telephone company switching hardware would detect the 555 prefix and route the call to a directory information operator. Now-a-days, telephone switching is done digitally and somewhere along the line a computer decides where to route calls.</p>\n\n<p>For this problem, write a program that determines if a supplied 7-digit telephone number should be routed to the directory information operator, that is, the prefix number is 555.</p>",
+  "inputDesc": "<p>The input consists of a single line containing a 7-digit positive integer N, (1000000 &lt;= N &lt;= 9999999).</p>",
+  "outputDesc": "<p>The single output line consists of the word YES if the number should be routed to the directory information operator or NO if the number should not be routed to the directory information operator.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현",
+    "문자열"
+  ],
+  "fetchedAt": "2026-04-22T02:21:07.485Z"
+}

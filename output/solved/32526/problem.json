@@ -1,0 +1,18 @@
+{
+  "problemId": 32526,
+  "title": "문자열 구성하기",
+  "timeLimit": "1 초",
+  "memoryLimit": "999 MB",
+  "description": "<p>어떤 문자열 $s$에 대해 $s^{\\prime}$은 $s$를 뒤집은 문자열이다. 두 문자열 $p$와 $q$에 대해 $p+q$는 두 문자열을 차례로 이어 붙인 문자열이다.</p>\n\n<p>길이 $N$의 알파벳 소문자로만 이루어진 문자열 $S$에 대해 길이 $i$의 접두사를 $A_i$, 길이 $i$의 접미사를 $B_i$라고 하자. $f(S)$는 $A^{\\prime}_i + B_{N-i} = A_i + B^{\\prime}_{N-i}$을 만족하는 $i(1 \\leq i &lt; N)$의 개수로 정의한다.</p>\n\n<p>$N$과 $K$가 주어질 때, $f(S) = K$인 문자열 $S$를 구해보자.</p>",
+  "inputDesc": "<p>첫째 줄에 $N$과 $K$가 공백으로 구분되어 주어진다. $(2 \\leq N \\leq 200\\,000$; $0 \\leq K &lt; N)$</p>",
+  "outputDesc": "<p>첫째 줄에 $f(S) = K$인 문자열 $S$가 존재한다면 <span style=\"color:#e74c3c;\"><code>Yes</code></span>, 아니라면 <span style=\"color:#e74c3c;\"><code>No</code></span>를 출력한다.</p>\n\n<p>만약 $S$가 존재한다면 둘째 줄에 가능한 $S$를 아무거나 하나 출력한다.</p>",
+  "tags": [
+    "실패",
+    "스페셜 저지",
+    "보기",
+    "문자열",
+    "해 구성하기",
+    "많은 조건 분기"
+  ],
+  "fetchedAt": "2026-04-22T02:43:20.393Z"
+}

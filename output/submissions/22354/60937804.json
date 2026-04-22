@@ -1,0 +1,11 @@
+{
+  "submissionId": 60937804,
+  "problemId": 22354,
+  "problemTitle": "돌 가져가기",
+  "result": "런타임 에러 (Segfault)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 782,
+  "submittedAt": "2023년 5월 18일 08:36:44"
+}

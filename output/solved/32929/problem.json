@@ -1,0 +1,17 @@
+{
+  "problemId": 32929,
+  "title": "UOS 문자열",
+  "timeLimit": "1 초",
+  "memoryLimit": "1024 MB",
+  "description": "<p>UOS 문자열이란 <span style=\"color:#e74c3c;\"><code>UOSUOSUOSU...</code></span>와 같이 <span style=\"color:#e74c3c;\"><code>UOS</code></span>가 무한히 반복되어 나타나는 문자열이다. 양의 정수 $x$가 주어질 때 UOS 문자열의 $x$번째 문자를 구하여라.</p>",
+  "inputDesc": "<p>첫 번째 줄에 $x$가 주어진다. $(1 \\leq x \\leq 10^9)$</p>",
+  "outputDesc": "<p>UOS 문자열의 $x$번째 문자를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "수학",
+    "구현",
+    "문자열",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:41:05.381Z"
+}

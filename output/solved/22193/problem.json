@@ -1,0 +1,18 @@
+{
+  "problemId": 22193,
+  "title": "Multiply",
+  "timeLimit": "2 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Write a program that computes a product of two non-negative integers A and B. The integers are represented in decimal notation and have N and M digits, respectively.</p>",
+  "inputDesc": "<p>The first line contains the lengths N and M, separated by a space. A is given on the second and B on the third line. The numbers will not have leading zeros.</p>",
+  "outputDesc": "<p>Output the product of A and B without leading zeros.</p>",
+  "tags": [
+    "성공",
+    "서브태스크",
+    "다국어",
+    "수학",
+    "사칙연산",
+    "임의 정밀도 / 큰 수 연산"
+  ],
+  "fetchedAt": "2026-04-22T02:28:38.756Z"
+}

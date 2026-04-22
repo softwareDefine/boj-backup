@@ -1,0 +1,11 @@
+{
+  "submissionId": 101459424,
+  "problemId": 2593,
+  "problemTitle": "엘리베이터",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 1615,
+  "submittedAt": "2025년 12월 30일 17:39:51"
+}

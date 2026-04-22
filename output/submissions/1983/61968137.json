@@ -1,0 +1,11 @@
+{
+  "submissionId": 61968137,
+  "problemId": 1983,
+  "problemTitle": "숫자 박스",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "C++20 (Clang)",
+  "codeLength": 1281,
+  "submittedAt": "2023년 6월 11일 22:05:15"
+}

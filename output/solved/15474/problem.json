@@ -1,0 +1,16 @@
+{
+  "problemId": 15474,
+  "title": "鉛筆 (Pencils)",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>JOI 君は鉛筆を&nbsp;<var>N</var>&nbsp;本買うために近くの文房具店に行くことにした．</p>\n\n<p>文房具店では鉛筆が一定の本数ずつのセットで売られている．セット&nbsp;<var>X</var>&nbsp;は&nbsp;<var>A</var>&nbsp;本で&nbsp;<var>B</var>&nbsp;円，セット&nbsp;<var>Y</var>&nbsp;は&nbsp;<var>C</var>&nbsp;本で&nbsp;<var>D</var>&nbsp;円である．</p>\n\n<p>JOI 君はセット&nbsp;<var>X</var>&nbsp;かセット&nbsp;<var>Y</var>&nbsp;の一方を選び，選んだセットをいくつか購入する．両方のセットを購入することはできない．<var>N</var>&nbsp;本以上の鉛筆を得るために必要な金額の最小値を求めよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>N</var> <var>A</var> <var>B</var> <var>C</var> <var>D</var></pre>",
+  "outputDesc": "<p>JOI 君が&nbsp;<var>N</var>&nbsp;本以上の鉛筆を手に入れるのに必要な金額の最小値を出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:10:37.536Z"
+}

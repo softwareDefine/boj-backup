@@ -1,0 +1,11 @@
+{
+  "submissionId": 60829367,
+  "problemId": 25289,
+  "problemTitle": "가장 긴 등차 부분 수열",
+  "result": "맞았습니다!!",
+  "memory": 9832,
+  "time": 248,
+  "language": "C++17",
+  "codeLength": 548,
+  "submittedAt": "2023년 5월 16일 00:49:03"
+}

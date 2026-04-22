@@ -1,0 +1,11 @@
+{
+  "submissionId": 97637512,
+  "problemId": 17353,
+  "problemTitle": "하늘에서 떨어지는 1, 2, ..., R-L+1개의 별",
+  "result": "맞았습니다!!",
+  "memory": 403052,
+  "time": 228,
+  "language": "C++17",
+  "codeLength": 2326,
+  "submittedAt": "2025년 8월 20일 04:01:39"
+}

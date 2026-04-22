@@ -1,0 +1,11 @@
+{
+  "submissionId": 99157950,
+  "problemId": 2658,
+  "problemTitle": "직각이등변삼각형찾기",
+  "result": "런타임 에러 (Segfault)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 2603,
+  "submittedAt": "2025년 10월 4일 17:57:32"
+}

@@ -1,0 +1,16 @@
+{
+  "problemId": 9316,
+  "title": "Hello Judge",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>당신은 N개의 테스트케이스들에게 반드시 인사를 해야 이 문제를 풀 수 있다.</p>\n\n<p>N개의 줄에 걸쳐</p>\n\n<p>\"Hello World, Judge i!\"</p>\n\n<p>를 출력하는 프로그램을 만들라. 여기서 i는 줄의 번호이다.</p>",
+  "inputDesc": "<p>N이 주어진다. (1 ≤ N ≤ 200)</p>",
+  "outputDesc": "<p>한 줄에 하나의 Hello World, Judge i! 를 출력한다.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "원문",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-22T01:45:14.398Z"
+}

@@ -1,0 +1,15 @@
+{
+  "problemId": 6763,
+  "title": "Speed fines are not fine!",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>Many communities now have “radar” signs that tell drivers what their speed is, in the hope that they will slow down.</p>\n\n<p>You will output a message for a “radar” sign. The message will display information to a driver based on his/her speed according to the following table:</p>\n\n<table class=\"table table-bordered\" style=\"width:30%\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">km/h over the limit</td>\n\t\t\t<td style=\"text-align:center\">Fine</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">1 to 20</td>\n\t\t\t<td style=\"text-align:center\">$100</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">21 to 30</td>\n\t\t\t<td style=\"text-align:center\">$270</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"text-align:center\">31 or above</td>\n\t\t\t<td style=\"text-align:center\">$500</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+  "inputDesc": "<p>The input will be two integers. The first line of input will be speed limit. The second line of input will be the recorded speed of the car.</p>",
+  "outputDesc": "<p>If the driver is not speeding, the output should be:</p>\n\n<p><code>Congratulations, you are within the speed limit! </code></p>\n\n<p>If the driver is speeding, the output should be:</p>\n\n<p><code>You are speeding and your fine is $F. </code></p>\n\n<p>where F is the amount of the fine as described in the table above.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-22T01:39:46.912Z"
+}

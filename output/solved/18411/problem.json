@@ -1,0 +1,17 @@
+{
+  "problemId": 18411,
+  "title": "試験 (Exam)",
+  "timeLimit": "2 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>JOI 君は情報の試験を&nbsp;<var>3</var>&nbsp;回受けた．試験の点数はすべて&nbsp;<var>0</var>&nbsp;以上&nbsp;<var>100</var>&nbsp;以下の整数である．</p>\n\n<p>JOI 君の成績は&nbsp;<var>3</var>&nbsp;回の試験の点数のうち高い方から&nbsp;<var>2</var>&nbsp;つを足し合わせた合計によって決まる．</p>\n\n<p><var>3</var>&nbsp;回の試験の点数&nbsp;<var>A, B, C</var>&nbsp;が与えられたとき，<var>3</var>&nbsp;回の試験の点数のうち高い方から&nbsp;<var>2</var>&nbsp;つを足し合わせた合計を出力するプログラムを作成せよ．</p>",
+  "inputDesc": "<p>入力は以下の形式で標準入力から与えられる．</p>\n\n<pre><var>A</var> <var>B</var> <var>C</var></pre>",
+  "outputDesc": "<p><var>3</var>&nbsp;回の試験の点数のうち高い方から&nbsp;<var>2</var>&nbsp;つを足し合わせた合計を&nbsp;<var>1</var>&nbsp;行で出力せよ．</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "구현",
+    "사칙연산"
+  ],
+  "fetchedAt": "2026-04-22T02:22:43.554Z"
+}

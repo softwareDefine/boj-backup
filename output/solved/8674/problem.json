@@ -1,0 +1,15 @@
+{
+  "problemId": 8674,
+  "title": "Tabliczka",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Mama przyniosła Piotrusiowi i Pawełkowi tabliczkę czekolady o wymiarach <em>a</em>&nbsp;i <em>b</em>. Chłopcy chcą podzielić tabliczkę za pomocą jednego prostego łamania, wzdłuż kostek pionowych lub poziomych. Chłopcy chcą podzielić tabliczkę jak najbardziej sprawiedliwie, czyli tak, aby różnica pomiędzy kawałkami, które przypadną na każdego z nich, była jak najmniejsza.</p>",
+  "inputDesc": "<p>W pierwszym i jedynym wierszu wejścia znajdują się dwie liczby całkowite <em>a</em>, <em>b</em>&nbsp;(1 ≤ <em>a</em>, <em>b</em> ≤ 2<sup>32</sup>), oznaczające odpowiednio liczbę kostek znajdujących się w każdym wierszu oraz każdej kolumnie tabliczki czekolady.</p>",
+  "outputDesc": "<p>W pierwszym i jedynym wierszu wyjścia powinna się znaleźć jedna liczba całkowita, równa różnicy pomiędzy kawałkami, które dostaną chłopcy.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학"
+  ],
+  "fetchedAt": "2026-04-22T01:42:41.115Z"
+}

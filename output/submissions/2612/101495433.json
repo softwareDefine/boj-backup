@@ -1,0 +1,11 @@
+{
+  "submissionId": 101495433,
+  "problemId": 2612,
+  "problemTitle": "DNA 유사도",
+  "result": "런타임 에러 (OutOfBounds)",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 4740,
+  "submittedAt": "2026년 1월 1일 00:49:04"
+}

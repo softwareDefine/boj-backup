@@ -1,0 +1,16 @@
+{
+  "problemId": 8718,
+  "title": "Bałwanek",
+  "timeLimit": "1 초",
+  "memoryLimit": "128 MB",
+  "description": "<p>Pewnej mroźnej zimy Kasia i Asia pojechały do parku. Jak to w zimie, park jest pełen śniegu, a dokładniej znajduje się w nim <em>x</em>&nbsp;litrów śniegu. Gdy Asia rozmawiała przez telefon, Kasia postanowiła ulepić bałwana. Zanim Asia skończyła rozmawiać Kasia ulepiła już jedną kulę z <em>k</em>&nbsp;litrów śniegu.</p>\n\n<p>Asia chce, aby bałwan był zbudowany z 3 kul śniegowych i dodatkowo kula leżąca na innej kuli musi być 2 razy mniejsza. Asia nie może już powiększać ani pomniejszać kuli zrobionej przez Kasię i musi ją wykorzystać, gdyż Kasia mogłaby się pogniewać.</p>\n\n<p>Dziewczynki chcę zbudować jak największego bałwana. Teraz zastanawiają się, z ilu mililitrów śniegu może być zbudowany ich bałwan.</p>",
+  "inputDesc": "<p>W pierwszym wierszu wejścia znajdują się dwie liczby całkowite <em>x</em>, <em>k</em>&nbsp;(1 ≤ <em>x</em> ≤ 10<sup>6</sup>, 1 ≤ <em>k</em> ≤ 10<sup>5</sup>, <em>k</em> &lt; <em>x</em>), oznaczające odpowiednio ilość litrów śniegu w parku oraz z ilu litrów śniegu zbudowana jest jedna z kul śnieżnych bałwana.</p>",
+  "outputDesc": "<p>W pierwszym i jedynym wierszu wyjścia powinna znajdować się jedna liczb całkowita, równa maksymalnej objętości bałwana (wynik podaj w mililitrach).</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "수학",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-22T01:42:51.860Z"
+}

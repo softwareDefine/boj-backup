@@ -1,0 +1,15 @@
+{
+  "problemId": 21638,
+  "title": "SMS from MCHS",
+  "timeLimit": "1 초",
+  "memoryLimit": "512 MB",
+  "description": "<p>You work for MCHS (Russian Ministry of Emergency Situations). You have just received a report from Hydro-meteorological Center containing an information about today's weather and the forecast for tomorrow.</p>\n\n<p>According to this report, the air temperature is $t_1$ degrees today, and the wind speed is $v_1$ meters per second. Tomorrow the air temperature will be $t_2$ degrees, and the wind speed will be $v_2$ meters per second.</p>\n\n<p>You are given a task to notify citizens about the weather for tomorrow via SMS.</p>\n\n<p>The most important goal is to warn citizens in case the storm is possible. If, according to the forecast, the temperature tomorrow will be negative, and the wind speed will be at least 10 meters per second, you should send a message with following text:</p>\n\n<p style=\"text-align: center;\"><code>A storm warning for tomorrow! Be careful and stay home if possible!</code></p>\n\n<p>Otherwise, you may just notify citizens about bad weather changes.</p>\n\n<p>If the temperature tomorrow will be lower than today, then you should send a message with a warning about a cold snap. It should have the following text:</p>\n\n<p style=\"text-align: center;\"><code>MCHS warns! Low temperature is expected tomorrow.</code></p>\n\n<p>Otherwise, if wind speed tomorrow will be higher than today, then you should send a message with a warning about strong wind. It should have the following text:</p>\n\n<p style=\"text-align: center;\"><code>MCHS warns! Strong wind is expected tomorrow.</code></p>\n\n<p>If none of the above conditions is satisfied, the you don't have to send a message at all.</p>\n\n<p>Given the report from Hydro-meteorological Center, determine, what message has to be sent.</p>",
+  "inputDesc": "<p>The first line of input contains two integers $t_1$ and $v_1$ --- the temperature and the wind speed for today ($-50 \\le t_1 \\le 50$; $0 \\le v_1 \\le 20$). The second line contains two integers $t_2$ and $v_2$ --- the temperature and the wind speed for tomorrow ($-50 \\le t_2&nbsp;\\le 50$; $0 \\le v_2&nbsp;\\le 20$).</p>",
+  "outputDesc": "<p>In case if any message has to be sent, output its text. Otherwise, output phrase \"<code>No message</code>\".&nbsp;</p>\n\n<p>You can separate message words with spaces and line feeds arbitrarily.</p>",
+  "tags": [
+    "성공",
+    "다국어",
+    "구현"
+  ],
+  "fetchedAt": "2026-04-22T02:27:48.257Z"
+}

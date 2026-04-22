@@ -1,0 +1,11 @@
+{
+  "submissionId": 90943673,
+  "problemId": 1916,
+  "problemTitle": "최소비용 구하기",
+  "result": "메모리 초과",
+  "memory": 0,
+  "time": 0,
+  "language": "C++17",
+  "codeLength": 884,
+  "submittedAt": "2025년 3월 6일 11:16:07"
+}
